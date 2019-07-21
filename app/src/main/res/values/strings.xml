@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">M_HUSIN</string>
+    <string-array name="data_list">
+        //HP
+        <item>Indonesia</item>
+    </string-array>
+    <string name="no_Azi">082111543</string>
+    <string name="no_Ozan">08886422</string>
+    <string name="no_Jamal">08112133</string>
+    <string name="no_Imam">0865342321</string>
+    <string name="no_Diki">0832344534</string>
+    //WORK
+    <string name="work_Azi">9515</string>
+    <string name="work_Ozan">9865</string>
+    <string name="work_Jamal">9234</string>
+    <string name="work_Imam">7531</string>
+    <string name="work_Diki">8756</string>
+    //MAIL
+    <string name="mail_Azi">Azi_hermawan@gmail.com</string>
+    <string name="mail_Ozan">Ozan_markozan@gmail.com</string>
+    <string name="mail_Jamal">Jmaludin@yahoo.com</string>
+    <string name="mail_Imam">Imam_permana@gmail.co.id</string>
+    <string name="mail_Diki">Diki_permana@yahoo.co.id</string>
+  //ID
+    <string name="id_Azi">Azi_hermawan342434</string>
+    <string name="id_Ozan">Ozan_markozan34244</string>
+    <string name="id_Jamal">Jmaludin363533</string>
+    <string name="id_Imam">Imam_permana323453</string>
+    <string name="id_Diki">Diki_permana53432</string>
+
+
+</resources>
